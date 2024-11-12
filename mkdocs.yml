@@ -1,4 +1,18 @@
 site_name: Breaking Point API
 site_url: https://latealways.is-a.dev/BreakingPointAPI/docs
+repo_url: https://github.com/LateAlways/BreakingPointAPI
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+  palette:
+    scheme: slate
+    primary: purple
+    accent: purple
+    
