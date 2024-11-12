@@ -1,0 +1,4 @@
+site_name: Breaking Point API
+site_url: https://latealways.is-a.dev/BreakingPointAPI/docs
+theme:
+  name: material
