@@ -1,5 +1,5 @@
 site_name: Breaking Point API
-site_url: https://latealways.is-a.dev/BreakingPointAPI/docs
+site_url: https://latealways.is-a.dev/BreakingPointAPI
 repo_url: https://github.com/LateAlways/BreakingPointAPI
 theme:
   name: material
