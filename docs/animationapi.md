@@ -1,6 +1,5 @@
 # Animation API
-
-## Introduction
+## About
 The animation API contains all functions related to animating the local player. (Knife animations)
 
 ## play
