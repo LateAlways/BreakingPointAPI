@@ -165,6 +165,6 @@ getgenv().bp_remotespy_connection = ReplicatedStorage.RemoteEvent.OnClientEvent:
         PacketType = ServerCodes[tonumber(PacketType)]
     end
     local args = {...}
-    rconsoleprint(table.concat({"New Packet:", "\nType: ", PacketType, "\nArguments: ", export(args, true, true)}))
+    rconsoleprint(table.concat({"New Packet:\nType: ", PacketType, "\nArguments: ", export(args, true, true)}))
 end)
 rconsoleprint("Breaking Point Remote Spy")
